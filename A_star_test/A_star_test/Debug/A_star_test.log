@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\andrewsher\documents\visual studio 2015\projects\pat_basic\a_star_test\a_star_test\main.cpp(26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  A_star_test.vcxproj -> C:\Users\Andrewsher\Documents\Visual Studio 2015\Projects\PAT_Basic\A_star_test\Debug\A_star_test.exe
+  A_star_test.vcxproj -> C:\Users\Andrewsher\Documents\Visual Studio 2015\Projects\PAT_Basic\A_star_test\Debug\A_star_test.pdb (Partial PDB)
